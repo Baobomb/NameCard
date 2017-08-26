@@ -9,6 +9,11 @@ import android.view.MenuItem
 import kotlinx.android.synthetic.main.activity_main.*
 import tw.bao.namecard.R
 
+
+/**
+ * Create by Bao 2017/08/26
+ * **/
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
